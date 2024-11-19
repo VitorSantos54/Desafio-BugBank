@@ -27,3 +27,10 @@ Testa o comportamento do sistema ao tentar cadastrar um novo usuário com um e-m
 
 ## desafio_bugbank- vitor hugo dos santos- teste_cadastro_nome_invalido.robot
 Valida o sistema de cadastro ao utilizar nomes com caracteres especiais ou inválidos. O teste é considerado ***PASS*** se o BugBank impedir o cadastro e exibir uma mensagem de erro informando sobre os caracteres inválidos no campo de Nome.
+
+### Ambiente utilizado nos testes:
+- Windows 10 (Versão 22H2)
+- Google Chrome (Versão 131.0.6778.70 (Versão oficial) 64 bits)
+- Chromedriver compatível (Versão 131.0.6778.70)
+- VS Code (Com extensão para Robot Framework)
+- Python (Versão 3.8.10)
